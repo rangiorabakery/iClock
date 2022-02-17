@@ -1,0 +1,9 @@
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\bin\Debug\ClockViewer.exe.config
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\bin\Debug\ClockViewer.exe
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\bin\Debug\ClockViewer.pdb
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.csproj.AssemblyReference.cache
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.Properties.Resources.resources
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.csproj.GenerateResource.cache
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.csproj.CoreCompileInputs.cache
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.exe
+E:\Users\OEM\source\repos\iClock\ClockViewer\ClockViewer\obj\Debug\ClockViewer.pdb
